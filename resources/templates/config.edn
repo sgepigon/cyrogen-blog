@@ -1,23 +1,23 @@
-{:site-title           "My Awesome Blog"
- :author               "Bob Bobbert"
- :description          "This blog is awesome"
- :site-url             "http://blogawesome.com/"
+{:site-title           "Santi Gepigon's Blog"
+ :author               "Santiago Gepigon III"
+ :description          "A grab bag of numbers and words"
+ :site-url             "https://sgepigon.github.io/"
  :post-root            "posts"
  :page-root            "pages"
- :post-root-uri        "posts-output"
- :page-root-uri        "pages-output"
- :tag-root-uri         "tags-output"
- :author-root-uri      "authors-output"
- :blog-prefix          "/blog"
+ :post-root-uri        ""
+ :page-root-uri        ""
+ :tag-root-uri         ""
+ :author-root-uri      ""
+ :blog-prefix          ""
  :rss-name             "feed.xml"
- :rss-filters          ["cryogen"]
+ :rss-filters          ["clojure"]
  :recent-posts         3
  :post-date-format     "yyyy-MM-dd"
  :archive-group-format "yyyy MMMM"
  :sass-src             []
  :sass-path            "sass"
  :compass-path         "compass"
- :theme                "blue"
+ :theme                "nucleus"
  :resources            ["img"]
  :keep-files           [".git"]
  :disqus?              false
@@ -28,5 +28,5 @@
  :previews?            false
  :clean-urls?          true
  :hide-future-posts?   true
- :klipse               {}
+ :klipse               {:settings {:selector ".klipse-cljs"}}
  :debug?               false}
