@@ -3,6 +3,10 @@
  :page-index 0
  :navbar? true}
 
-## Write something about something
+A little corner for my [chunks of code](https://twitter.com/lstoll/status/921116773830799363).
 
-wow wow wow
+
+Find me elsewhere on:
+
+- [GitHub](https://github.com/sgepigon)
+- [LinkedIn](https://linkedin.com/in/santi-gepigon)
