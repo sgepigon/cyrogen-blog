@@ -17,7 +17,7 @@
  :sass-src             []
  :sass-path            "sass"
  :compass-path         "compass"
- :theme                "blue_sgepigon"
+ :theme                "sgepigon"
  :resources            ["img"]
  :keep-files           [".git"]
  :disqus?              false
